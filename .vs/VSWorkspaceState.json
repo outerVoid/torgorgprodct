@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\database",
+    "\\database\\migrations",
+    "\\public\\css",
+    "\\resources\\sass",
+    "\\resources\\views\\layouts"
+  ],
+  "SelectedNode": "\\database\\migrations\\2019_11_06_095115_create_orders_table.php",
+  "PreviewInSolutionExplorer": false
+}
